@@ -12,3 +12,5 @@ const cliente = new Cliente("Carlos", 123456777, "123");
 const estaLogado = SistemaAutenticacao.login(cliente, "133");
 
 console.log(estaLogado);
+
+//teste
